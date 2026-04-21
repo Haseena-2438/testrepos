@@ -1,0 +1,3 @@
+class Changepassword:
+   def changepassword:
+     ......
