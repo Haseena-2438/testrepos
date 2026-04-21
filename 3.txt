@@ -1,6 +1,9 @@
 hii developers
+<<<<<<< HEAD
 def function():
 -----------
+=======
+>>>>>>> develop
 
 story 321
  abcdefgh
